@@ -1,0 +1,18 @@
+---
+layout: wrapping
+title: All of my posts
+date: Last Modified
+tags: page
+---
+style
+  include:cssmin /allposts.css
+h1 Here are all of my posts
+ul
+  each post in collections.all 
+    - var title = post.data.title
+    - var date = post.date.toLocaleDateString()
+    if !collections.page.includes(post) && title && date
+      li.postinfo
+        a(href=post.url)
+          =title
+        p published #{date}
