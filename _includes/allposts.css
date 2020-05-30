@@ -6,3 +6,11 @@ li.postinfo{
 h1{
     text-align: center;
 }
+@media (max-width: 600px) {
+    .postinfo{
+        flex-direction: column;
+    }
+    ul{
+        padding: 0;
+    }
+}
