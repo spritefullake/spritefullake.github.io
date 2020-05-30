@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve",
     "deploy:github": "npm run build && node ./scripts/deploy-github"
   },
   "keywords": [],
