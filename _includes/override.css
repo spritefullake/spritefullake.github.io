@@ -99,3 +99,7 @@ body {
     border-bottom: 1px solid var(--accent);
   }
 }
+a.nostyle, a.nostyle:hover{
+  text-transform: none;
+  color: inherit;
+}
