@@ -7,4 +7,4 @@
 <p><a href="https://codepen.io/spritefullake">Codepen</a></p>
 </li>
 </ul>
-</main><nav><ul><li><a href="/">Homepage</a></li><li><a href="/all-posts/">All posts</a></li><li><a href="/about/">About</a></li><li class="active"><a href="/contact/">Contact</a></li></ul></nav></body>
+</main><nav><ul><li><a href="/pages/all-posts/">All posts</a></li><li><a href="/pages/">Homepage</a></li><li class="active"><a href="/index">Contact</a></li><li><a href="/pages/about/">About</a></li></ul></nav></body>
