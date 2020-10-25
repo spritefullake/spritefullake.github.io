@@ -1,0 +1,39 @@
+# Joyride: a short story
+Once upon a time there was a boy and he was alone. But not that he didn’t see anyone or talk to anyone; rather, he *felt alone*. He lived a life full of people but his heart never felt so empty when the Crisis hit. The loneliness in the air was palpable to him and slowly he found he could not even taste happiness. Although the days were beautiful and bright he only felt a dull, ugly pain weighing down his chest. He was lonely. But he knew he didn’t have a good reason to feel lonely and he knew the world already had so much sadness and he knew he was happy to be alive. Yet the feeling lingered. 
+
+So he knew what he had to do. He had to feel this feeling until he felt it no more. But he despised it. He did all he could to run away from it and distracted himself in whatever way he could. He tried his best to meet people and find someone to share his heart with. But it hurt so much when he gave more of his heart than someone could carry. Perhaps, he thought, there is no point of being vulnerable when nobody would rise to establish a true friendship. A friendship beyond circumstance.
+
+Then he found someone, or so he thought. He was cautious and guarded himself: maybe this new friend would fade away. But this friend was like him, a little. He too felt alone, a little. Weeks passed then months and the boy felt happy in the presence of his friend. It made the stretches of loneliness without his friend more bearable. Each meeting with his friend was something to look forward to. And it worked. The boy was less lonely.
+
+But even joy fades. His friend had other friends. And then they met less. And then when they met it was only to work or to study. And then one day his friend forgot. And then the boy was sad again. So he tried to do the only other thing that made him happy: biking. 
+
+The boy had a beloved bicycle he kept near his room. He cared for Cycle a lot. Every time he went somewhere, he would ride Cycle. With each pedal-step and wheel turn, the boy felt a little bit happier. He would ride through the forests and on roads. He was without concern with Cycle. The ring of the bell would warn pedestrians and flashlight at night the cars. Cycle made the boy feel present. And Cycle was his present.
+
+But even joy fades. One day the boy noticed something wrong with Cycle. When they rode, the boy could hear a *squeak* from Cycle. The back tire was flat. The boy was resilient, however. He knew what he had to do. He asked someone where he could fix Cycle, with a tightness in his chest. It had been long since he asked someone something important to him. The someone told him of a far off bike shop, though the boy had no means of transport beyond his feet. Nevertheless, he decided to take Cycle to the bike shop. And so the journey began.
+
+The bike shop was far. In the searing summer sun it felt so much farther. But the boy could carry this burden — it distracted him from his own sadness. And the day was bright and beautiful, how could he feel sad at that? The boy had dreams of rising high above circumstance. He wanted to help people. He wanted to end war. He wanted to cure diseases. He wanted to free people. How could he be down with dreams so big? 
+
+He’d lost so much sleep in the past months. He stayed up all night doing things he wasn’t sure he should. Why complete this assignment when every day the Crisis grew? He could not realize his own purpose in these conditions, he knew it. Each day he realized how little he could trust his once-friends. Was it really friendship or convenience, he wondered. No matter, he had Cycle. And that’s all that mattered. 
+
+But even joy fades. Cycle shook violently with each step. Cars, those death machines, sped by on the burning asphalt. The boy kept walking Cycle up the sidewalk. Then,
+
+Cycle’s wheel unfastened. In the summer light the metallic luster of its rim was blinding. But the boy moved onwards, carefully lugging Cycle after refastening the wheel. So the wheels turned and Cycle kept shaking. The boy continued.
+
+Sometimes he wished he didn’t have to feel it. That deep, pitted feeling in his heart. That soreness in his legs from dehydration and sleep deprivation. His dreams, once a force to lift him, fell weighty upon his realizations: reality was unforgiving. Yes, he knew life is strange and wondrous but he also knew life is burdensome. Each living being functions as a sink on resources, consuming the materials of its existence. And though things like plants provide for animals and animals for humans, the boy felt his own existence relied on the sacrifice of so many others. Other humans, animals, plants, microbes and life that sustained him. Divine gifts, the favor of which he could never return. Why, after all this, did he feel sad, he thought. 
+
+But even joy fades. His hands gripped Cycle tightly as they descended a hill. At the end of the hill was a stoplight. And past the stoplight, the bike shop. The boy felt a tightness in his chest again. Was he… excited, he thought. Relieved, maybe? The journey had been long and his sweat profuse. It was so much for the boy, these feelings. He thought of how sad he had been these past months. He thought of the fleeting moments of joy. He remembered that feeling of peace in the House of Worship. He remembered his once-friends and all the pieces of his heart he gave away. He was happy. It felt good to give. Despite it all. Despite all the world’s problems and his own problems, it felt good to be with Cycle enroute to the bike shop. And then tears.
+
+They mixed with the sweat from his forehead dripping down his dimpled cheeks. The boy was smiling. Why was everyone so awful, he thought. Burning tears gave way to reddened, puffy eyes. It was ok, he thought. Here I am, he thought. So the boy continued with the illustrious Cycle in hand, towards the intersection. 
+
+Like bullets exchanged in a street fight, that is how the boy thought of the cars. The road, though wide, was relentlessly traveled by the cars. They reflected the sun from their metal coats each time they passed by*,* with the *wee woo* sound as they approached and then departed. But the boy was not scared. He had learned in these past months to fear nothing of this illustrated world. The distractions with their loud noises and shiny sheen betrayed the truth of the matter: inside each car was a person. And inside each person was a person — though smaller. This is what the boy surmised of the mind. The little boy inside him was controlling this body he possessed. And this lingering loneliness all came from this little boy inside him, he knew it. And if everyone had a little person inside them, he thought, then why fear them?
+
+But even joy fades. The boy waited and watched cars zoom by. Then the stoplight changed colors and the little man on the sign told the boy he could walk. The crosswalk was like a rickety bridge over a cliff but instead of death coming from below, it could come from either periphery. Still, the boy was brave. He held onto Cycle, beloved Cycle, and began crossing the road. The traffic clock counted down, but the boy kept on. It was hard. His legs ached from sleepless nights. The glare from every direction made it hard to see things. Cycle kept shaking. But the boy continued. Then,
+
+the stoplight changed colors again. The boy was so close to the other side until a bright bullet car in the distance made its way across the road. The boy thought he could make it in time. But then he tripped. And then Cycle’s wheel unfastened. And then horns. But the car couldn’t stop in time. With the last of his strength, he knew what he had to do. He gripped Cycle. He leaped forward, throwing Cycle backwards. **Crrrash!** 
+
+The boy made it. He stood up, and sensed there was a scene behind him. But the bike shop was right in front of him. He was happy. He took a step forward and
+
+he collapsed. 
+
+
+
