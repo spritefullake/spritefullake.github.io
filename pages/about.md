@@ -1,4 +1,5 @@
 ---
+permalink: "/about/"
 layout: wrapping
 title: About
 date: Last Modified

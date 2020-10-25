@@ -1,4 +1,5 @@
 ---
+permalink: "/contact/"
 layout: wrapping
 title: Contact
 date: Last Modified
