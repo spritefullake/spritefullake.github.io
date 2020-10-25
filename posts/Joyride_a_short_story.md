@@ -1,4 +1,8 @@
-# Joyride: a short story
+---
+title: "Joyride: a short story"
+date: 2020-09-22
+layout: wrapping
+---
 Once upon a time there was a boy and he was alone. But not that he didn’t see anyone or talk to anyone; rather, he *felt alone*. He lived a life full of people but his heart never felt so empty when the Crisis hit. The loneliness in the air was palpable to him and slowly he found he could not even taste happiness. Although the days were beautiful and bright he only felt a dull, ugly pain weighing down his chest. He was lonely. But he knew he didn’t have a good reason to feel lonely and he knew the world already had so much sadness and he knew he was happy to be alive. Yet the feeling lingered. 
 
 So he knew what he had to do. He had to feel this feeling until he felt it no more. But he despised it. He did all he could to run away from it and distracted himself in whatever way he could. He tried his best to meet people and find someone to share his heart with. But it hurt so much when he gave more of his heart than someone could carry. Perhaps, he thought, there is no point of being vulnerable when nobody would rise to establish a true friendship. A friendship beyond circumstance.

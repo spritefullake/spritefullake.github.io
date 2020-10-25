@@ -8,6 +8,7 @@
   background-color: var(--theme);
   font-family     : -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
   /*font-size     : 62.5%;*/
+  --content-padding: 2rem;
 }
 
 header {
@@ -21,7 +22,8 @@ header {
 }
 .info {
   grid-area : info;
-  text-align: center;
+  text-align: start;
+  padding: var(--content-padding);
 }
 nav {
   grid-area    : nav;
@@ -51,7 +53,7 @@ a:hover {
 
 main {
   grid-area  : main;
-  padding    : 2rem;
+  padding    : var(--content-padding);
   font-size  : 1.5rem;
   line-height: 1.7;
 }
@@ -61,7 +63,7 @@ body {
   grid-template-columns: 1fr 3fr;
   grid-template-areas  :
     "header header"
-    "info main"
+    "nav info"
     "nav main";
   margin: 0;
 }

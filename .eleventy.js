@@ -19,5 +19,19 @@ module.exports = function (eleventyConfig) {
         includes: "_includes",
         layouts: "_layouts"
     };
+    //create a posts key for the collections object
+    //which pulls everything from the ./posts directory
+    eleventyConfig.addCollection("posts",
+        collection => collection
+            .getAllSorted()
+            .filter(item => item.url
+                && item.inputPath.startsWith("./posts")));
+
+    eleventyConfig.addCollection("pages",
+        collection => collection
+            .getAllSorted()
+            .filter(item => item.url
+                && item.inputPath.startsWith("./pages")));
+
     return eleventyConfig;
 };

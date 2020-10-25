@@ -4,16 +4,15 @@ dynamicPermalink: false
 layout: wrapping
 title: All posts
 date: Last Modified
-tags: page
 ---
 style
   include:cssmin /allposts.css
 h1 Here are all of my posts
 ul
-  each post in collections.all 
-    - var title = post.data.title
+  each post in collections.posts 
+    - var title = post.data.title || post.fileSlug
     - var date = post.date.toLocaleDateString()
-    if !collections.page.includes(post) && title && date
+    if title && date
       li.postinfo
         a(href=post.url)
           =title
