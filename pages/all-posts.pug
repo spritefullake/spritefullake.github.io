@@ -8,12 +8,17 @@ date: Last Modified
 style
   include:cssmin /allposts.css
 h1 Here are all of my posts
-ul
+.postinfo
+  p.header Title 
+  p.header Published 
+  p.header Tags
   each post in collections.posts 
     - var title = post.data.title || post.fileSlug
     - var date = post.date.toLocaleDateString()
+    - var tags = post.data.tags || "none"
     if title && date
-      li.postinfo
+      p.title
         a(href=post.url)
           =title
-        p published #{date}
+      p.date #{date}
+      p.tags #{tags}

@@ -1,16 +1,37 @@
-li.postinfo{
-    display: flex;
-    justify-content: space-around;
+.postinfo{
+    display: grid;
+    justify-content: center;
     align-items: center;
+    grid-template-areas: 
+    "header header header"
+    "title date tags";
+    grid-template-columns: 1fr 1fr 0.5fr;
+    grid-template-rows: auto;
 }
 h1{
     text-align: center;
 }
+.header{
+  grid-area: "header";
+}
+.title{
+    grid-area: "title"
+}
+.date{
+    grid-area: "date";
+}
+.tags{
+    grid-area:"tags";
+}
 @media (max-width: 600px) {
-    .postinfo{
-        flex-direction: column;
+    .header{
+        display: none;
     }
-    ul{
-        padding: 0;
+    .postinfo{
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "title"
+        "date"
+        "tags";
     }
 }
