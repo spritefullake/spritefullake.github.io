@@ -23,7 +23,9 @@ header {
 .info {
   grid-area : info;
   text-align: start;
-  padding: var(--content-padding);
+  padding-left: var(--content-padding);
+  padding-right: var(--content-padding);
+  font-size: 1.5rem;
 }
 nav {
   grid-area    : nav;
@@ -51,7 +53,7 @@ a:hover {
   background-color: var(--accent);
 }
 
-main {
+.content, main {
   grid-area  : main;
   padding    : var(--content-padding);
   font-size  : 1.5rem;
@@ -73,14 +75,15 @@ body {
     display   : grid;
     /*grid areas cannot be L-shaped; they must be rectangular*/
     grid-template-areas:
-      "header header"
-      "info info"
-      "main main"
-      "nav nav";
+      "header"
+      "info"
+      "main"
+      "nav";
     grid-template-rows: 1fr 0.5fr 5fr 1fr;
+    grid-template-columns: auto;
     height: 100%;
   }
-  main, main *{
+  .content{
     padding-top: 0;
     margin-top: 0;
   }

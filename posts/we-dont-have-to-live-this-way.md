@@ -1,5 +1,5 @@
 ---
-layout: wrapping
+layout: article
 title: We don't have to live this way
 date: Last Modified
 ---

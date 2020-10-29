@@ -1,0 +1,15 @@
+---
+layout: wrapping
+---
+
+<div class="info">
+
+  <h1>{{ title }}</h1>
+  <h3>{{"Tags: " + tags if tags else ""}}</h3>
+  <h5>Published on
+    {{ page.date.toUTCString() }}
+  </h5>
+  <h6>{{ content | characterCount }}
+    characters</h6>
+</div>
+<article class="content">{{content | safe}}</article>

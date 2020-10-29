@@ -1,7 +1,10 @@
 ---
 title: "Joyride: a short story"
 date: 2020-09-22
-layout: wrapping
+layout: article
+tags:
+  - fiction
+  - story
 ---
 Once upon a time there was a boy and he was alone. But not that he didn’t see anyone or talk to anyone; rather, he *felt alone*. He lived a life full of people but his heart never felt so empty when the Crisis hit. The loneliness in the air was palpable to him and slowly he found he could not even taste happiness. Although the days were beautiful and bright he only felt a dull, ugly pain weighing down his chest. He was lonely. But he knew he didn’t have a good reason to feel lonely and he knew the world already had so much sadness and he knew he was happy to be alive. Yet the feeling lingered. 
 

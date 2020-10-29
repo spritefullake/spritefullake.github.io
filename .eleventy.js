@@ -1,16 +1,17 @@
-module.exports = {
-
-};
-
 const CleanCSS = require("clean-css");
 function cssmin(code) {
     return new CleanCSS({}).minify(code).styles;
 }
+function characterCount(content) {
+    return content.split("").length;
+}
 module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter("cssmin", cssmin);
+    eleventyConfig.addFilter("characterCount", characterCount);
     eleventyConfig.setPugOptions({
         filters: {
-            cssmin
+            cssmin,
+            characterCount,
         }
     });
 
